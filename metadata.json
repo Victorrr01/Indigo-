@@ -1,0 +1,8 @@
+{
+  "name": "Indigo Developments Modern",
+  "description": "A premium, $50k-tier modern real estate platform for Indigo Developments, complete with AI property consultancy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
